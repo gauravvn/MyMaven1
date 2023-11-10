@@ -97,7 +97,7 @@
 <body>
   <div class="container">
     <header class="header">
-      <h1>Mr. Camel</h1>
+      <h1>Mr. Gaurav</h1>
       <div class="social">
         <a href="#"><i class="fab fa-facebook"></i></a>
         <a href="#"><i class="fab fa-instagram"></i></a>
@@ -113,7 +113,7 @@
         <li><a href="#about">About</a></li>
       </ul>
       <br><br>
-      <p>"Do something important in life. I convert green grass to code."<br>- Mr Camel</p>
+      <p>"Do something important in life. I convert green grass to code."<br>- Mr Gaurav</p>
     </aside>
     <main class="content">
       <h2>About Me</h2>
